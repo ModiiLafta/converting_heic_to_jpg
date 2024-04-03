@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# converting_heic_to_jpg
-=======
-# HEIC to JPEG Converter
+
+# converting heic image to jpg
+
 
 This Python script automates the process of converting HEIC image files to JPEG format. It's designed to efficiently handle multiple HEIC files within a specified directory, converting each to its JPEG equivalent and saving the results in a separate folder.
 
@@ -51,4 +50,4 @@ The script will automatically create a new folder named `jpg` within the specifi
 ## Contributing
 
 Feel free to fork this repository and submit pull requests to contribute to this project. If you encounter any issues or have suggestions for improvement, please open an issue in this repository.
->>>>>>> 91ebf83 (okk)
+
