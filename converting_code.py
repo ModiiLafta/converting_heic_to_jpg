@@ -5,7 +5,7 @@ def convert_heic_to_jpeg(heic_path, jpeg_path):
     subprocess.run(["magick", heic_path, jpeg_path])
 
 # Directory containing the HEIC files
-directory = '/Users/modilafta/Documents/python_test/'
+directory = '/Users/the_path/to_your_Documents/test/'
 
 # New folder for the JPEG files
 jpeg_directory = os.path.join(directory, "jpg")
